@@ -8,6 +8,8 @@ I was able to set up an Airflow Environment on Docker by simply following the av
 
 I used the same Neon table connection, which is a serverless PostgreSQL Database service.
 
+### For replication, I also added my docker-compose.yaml file.
+
 I added my tiktok_pipeline.py DAG file in this folder for visibility purposes.
 
 Thanks!
